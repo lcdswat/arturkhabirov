@@ -11,7 +11,7 @@ PRESENTLY I AM:<br/><br/>
 </li>
 <li> - CREATOR AT THE PROJECT<br />
     <span class="yellow  text-22">"DANCE RECOMMENDS FOR VIEWING"</span><br /><br />
-</li><li> - <a class="yellow  text-22"  href="https://vk.com/breakufa">BREAK-DANCE(BREAKING) TEACHER</a><br /><br />
+</li><li> - <a class="yellow  text-22"  href="http://tancuy-ufa.ru/">BREAK-DANCE(BREAKING) TEACHER</a><br /><br />
 </li>
 <li> - THE CREATOR OF THE COMMUNITY<br />
     <a class="yellow  text-22" href="https://vk.com/DANCENOCOMPLEX">"DANCE NOT COMPLEX!"</a><br /><br />

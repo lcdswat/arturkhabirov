@@ -13,7 +13,7 @@
 <li> - АВТОР ПРОЕКТА<br />
     <span class="yellow text-22">«ТАНЦУЙ РЕКОМЕНДУЕТ К ПРОСМОТРУ»</span><br /><br />
 </li>
-<li> - <a href="http://vk.com/breakufa" class="yellow  text-22">ПЕДАГОГ-ХОРЕОГРАФ ПО БРЕЙК-ДАНСУ</a><br /><br /></li>
+<li> - <a href="http://tancuy-ufa.ru/" class="yellow  text-22">ПЕДАГОГ ПО БРЕЙК-ДАНСУ</a><br /><br /></li>
 
 <li> - СОЗДАТЕЛЬ СООБЩЕСТВА<br />
     <a class="yellow text-22" href="https://VK.COM/DANCENOCOMPLEX">«ТАНЦУЙ, НЕ КОМПЛЕКСУЙ»</a><br /><br />
