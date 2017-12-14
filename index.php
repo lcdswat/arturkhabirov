@@ -69,7 +69,6 @@ $Intellect = $is_rus == true ? $Intellect_rus : $Intellect_en;
 
 	<script src="js/modernizr.custom.17475.js"></script>
 	<script type="text/javascript" src="js/jquery.elastislide.js"></script>
-	<script type="text/javascript" src="js/jquery.youtubevideogallery.js"></script>
 </head><body><div id="video">
 		<video  loop="loop" preload="metadata" autoplay="autoplay" width="100%" muted autobuffer poster="photo/10.jpg">
 		<source src="video/video1.mp4" type="video/mp4" />
