@@ -60,7 +60,6 @@ $Intellect = $is_rus == true ? $Intellect_rus : $Intellect_en;
 	<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
 	<link rel="stylesheet" type="text/css" href="css/custom.css" />
 	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" />
-	<link rel="stylesheet" href="css/youtube-video-gallery.css" type="text/css" />
 	<link rel="stylesheet" href="css/site.css" type="text/css" />
 
 	<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
