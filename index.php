@@ -299,7 +299,7 @@ $Intellect = $is_rus == true ? $Intellect_rus : $Intellect_en;
 				</tr>
 			</table>
 		<div class="bottom">
-			<span class="text-14" style="position: absolute;left: 0px;"><?php echo $Designed; ?> <a class="yellow text-14" href="https://vk.com/m_rakhimov"><?php echo $Marat_Rakhimov; ?></a></span>
+			<span class="text-14" style="position: absolute;left: 0px;"><?php echo $Designed; ?> <a class="yellow text-14" href="tel:+79177785575"><?php echo $Marat_Rakhimov; ?></a></span>
 			<span class="text-14">© 2015 <?php echo $bottom_label; ?></span>	    
 		<span class="text-14" style="position: absolute;right: 0px;"><?php echo $Developed; ?> <a class="yellow text-14" href="https://vk.com/it_intellect"><?php echo $Intellect; ?></a></span>
 		</div>
